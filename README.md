@@ -13,7 +13,7 @@ Deploy Simple ERC20 Token on Remix
   - Accounts dropdwon -> pick any of the accounts in dropdown
 - Deploy Button
   - Enter the parameters for deployment for (name, symbol, decimals,totalSupply) 
-  - Example paramters "TokenName", "TJES", 18, 7000
+  - Example paramters "TokenName", "TJES", 18, 7000000000000000000000
   - Click deploy button
 - Deployed Contracts
   - Scroll down to deployed contracts section and click on deployed contract
